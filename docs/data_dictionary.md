@@ -182,6 +182,43 @@ above. The limitation does not affect the population interpolation procedure
 used for the other 15 NCR LGUs, which did not undergo the same Makati–Taguig
 boundary transfer during the study period.
 
+### Boundary sensitivity analysis
+
+To assess whether the Makati–Taguig geographic discontinuity materially affects
+the study's results, two sensitivity analyses were conducted.
+
+First, Makati and Taguig were excluded from the Negative Binomial model. The
+population-density coefficient remained negative and statistically
+non-significant, changing from -0.0065 (p = 0.1296) in the primary model to
+-0.0059 (p = 0.1843). The relative structural-risk ordering of all remaining
+15 LGUs was unchanged.
+
+Second, a boundary-adjusted population scenario was evaluated using
+retrospectively comparable 2020 and 2024 population anchors for Makati and
+Taguig while retaining the project's linear interpolation/extrapolation
+procedure. Under this scenario, the population-density coefficient remained
+negative and statistically non-significant at -0.0069 (p = 0.115). The year
+effects and dispersion parameter also remained similar to those of the primary
+model.
+
+These sensitivity tests indicate that the Makati–Taguig boundary issue does not
+materially alter the overall interpretation of the Negative Binomial model or
+the relative structural-risk ordering of the unaffected LGUs.
+
+However, Makati's individual downstream priority classification was sensitive
+to the alternative population treatment. In the primary analysis, Makati was
+ranked 5th and classified as Priority. Under the boundary-adjusted scenario,
+Makati was ranked 3rd but classified as Watch because its scenario 2025
+incidence (351.24 per 100,000) was below its scenario five-year average
+incidence (374.09 per 100,000). Taguig changed from rank 12 to rank 13 and
+remained classified as Stable.
+
+The boundary-adjusted values are therefore treated as a sensitivity scenario,
+not as replacements for the primary analytical dataset. This avoids imposing a
+retrospective geographic adjustment on the population denominator when
+corresponding barangay-level dengue case allocations are unavailable to confirm
+that the numerator follows the same geographic definition.
+
 ### Reference note
 
 The administrative transfer is documented in the Philippine Statistics
